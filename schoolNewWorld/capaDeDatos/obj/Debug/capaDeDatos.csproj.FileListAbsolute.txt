@@ -1,0 +1,6 @@
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\bin\Debug\capaDeDatos.dll
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\bin\Debug\capaDeDatos.pdb
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\obj\Debug\capaDeDatos.csprojAssemblyReference.cache
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\obj\Debug\capaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\obj\Debug\capaDeDatos.dll
+C:\Users\Perla Solis\source\repos\School\capaDeDatos\obj\Debug\capaDeDatos.pdb

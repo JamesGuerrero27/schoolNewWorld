@@ -1,0 +1,9 @@
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\bin\Debug\capaDeNegocios.dll
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\bin\Debug\capaDeNegocios.pdb
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\bin\Debug\capaDeDatos.dll
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\bin\Debug\capaDeDatos.pdb
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\obj\Debug\capaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\obj\Debug\capaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\obj\Debug\capaDeNegocios.csproj.CopyComplete
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\obj\Debug\capaDeNegocios.dll
+C:\Users\Perla Solis\source\repos\School\capaDeNegocios\obj\Debug\capaDeNegocios.pdb
